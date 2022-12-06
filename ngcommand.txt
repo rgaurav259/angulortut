@@ -1,0 +1,14 @@
+generate component in angular : ng generate component login/register/anythingyouwant.
+generate component in angular short form  : ng g c login/register/anythingyouwant.
+
+//module create 
+in shortcuts
+ng g m user-auth
+
+in module now create components
+ng g c user-auth/sign-in
+
+
+//generate class
+ng generate class Dummy
+shortcut ng g class Dummy
